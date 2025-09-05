@@ -1,0 +1,12 @@
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\bin\Release\net5.0\CleanArchMvc.Domain.deps.json
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\bin\Release\net5.0\CleanArchMvc.Domain.dll
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\bin\Release\net5.0\CleanArchMvc.Domain.pdb
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.sourcelink.json
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.dll
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\refint\CleanArchMvc.Domain.dll
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\CleanArchMvc.Domain.pdb
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Domain\obj\Release\net5.0\ref\CleanArchMvc.Domain.dll
