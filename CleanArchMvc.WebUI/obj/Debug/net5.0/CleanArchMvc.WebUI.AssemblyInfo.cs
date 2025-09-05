@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchMvc.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0839c519e418bf7accc88a1a86e7c6b958af108d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e50f5b650d931e783378a29a34f42f7030996fa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchMvc.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchMvc.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
