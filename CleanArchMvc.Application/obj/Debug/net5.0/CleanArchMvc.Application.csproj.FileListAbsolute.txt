@@ -1,0 +1,16 @@
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.deps.json
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.sourcelink.json
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArc.49502176.Up2Date
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\refint\CleanArchMvc.Application.dll
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Courses Udemy\Clean Architecture\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
